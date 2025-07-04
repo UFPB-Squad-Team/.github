@@ -10,7 +10,7 @@ Nossa missão é ir além do aprendizado tradicional, simulando um ambiente de s
 
 ## Nosso Propósito
 
-Gerar valor e inovação através de projetos baseados em dados, desenvolvendo habilidades técnicas e de equipe. [cite_start]Atualmente, nosso principal foco está na parceria com o **Instituto Alpargatas**[cite: 1], onde aplicamos nossos conhecimentos para criar soluções que visam impacto social nas áreas de educação e desenvolvimento econômico.
+Gerar valor e inovação através de projetos baseados em dados, desenvolvendo habilidades técnicas e de equipe. Atualmente, nosso principal foco está na parceria com o **Instituto Alpargatas**, onde aplicamos nossos conhecimentos para criar soluções que visam impacto social nas áreas de educação e desenvolvimento econômico.
 
 ---
 
@@ -20,9 +20,9 @@ Aqui você encontrará os repositórios que abrigam os projetos desenvolvidos po
 
 ### Exemplos de Áreas e Ideias que estamos explorando:
 
-* [cite_start]**Educação e Desempenho Escolar:** Análise de fatores que impactam o desempenho educacional, mapeamento de necessidades de apoio e modelos preditivos de evasão. [cite: 1]
-* [cite_start]**Desenvolvimento Econômico e Oportunidades de Trabalho:** Estudos sobre potencial de empregabilidade regional e mapeamento de iniciativas de empreendedorismo. [cite: 1]
-* [cite_start]**Ferramentas e Dashboards para Tomada de Decisão:** Desenvolvimento de dashboards interativos, sistemas de recomendação e protótipos de plataformas de mapeamento de necessidades locais para auxiliar o Instituto Alpargatas. [cite: 1]
+**Educação e Desempenho Escolar:** Análise de fatores que impactam o desempenho educacional, mapeamento de necessidades de apoio e modelos preditivos de evasão.
+**Desenvolvimento Econômico e Oportunidades de Trabalho:** Estudos sobre potencial de empregabilidade regional e mapeamento de iniciativas de empreendedorismo. 
+**Ferramentas e Dashboards para Tomada de Decisão:** Desenvolvimento de dashboards interativos, sistemas de recomendação e protótipos de plataformas de mapeamento de necessidades locais para auxiliar o Instituto Alpargatas. 
 
 ---
 
