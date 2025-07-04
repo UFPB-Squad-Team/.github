@@ -1,4 +1,4 @@
-# 🚀 UFPB-Squad-Team
+#  UFPB-Squad-Team
 
 Bem-vindos à Organização `UFPB-Squad-Team`!
 
@@ -8,13 +8,13 @@ Nossa missão é ir além do aprendizado tradicional, simulando um ambiente de s
 
 ---
 
-## 🎯 Nosso Propósito
+##  Nosso Propósito
 
 Gerar valor e inovação através de projetos baseados em dados, desenvolvendo habilidades técnicas e de equipe. Atualmente, nosso principal foco está na parceria com o **Instituto Alpargatas**, onde aplicamos nossos conhecimentos para criar soluções que visam impacto social nas áreas de educação e desenvolvimento econômico.
 
 ---
 
-## ✨ Nossos Projetos Atuais (Parceria Instituto Alpargatas)
+##  Nossos Projetos Atuais (Parceria Instituto Alpargatas)
 
 Aqui você encontrará os repositórios que abrigam os projetos desenvolvidos por cada dupla (ou sub-equipe) do nosso squad para a disciplina de Análise de Dados, em colaboração com o Instituto Alpargatas. Cada projeto, embora seja uma entrega individual, contribui para um objetivo maior e se beneficia de nossa abordagem colaborativa.
 
