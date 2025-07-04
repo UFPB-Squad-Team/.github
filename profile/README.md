@@ -32,7 +32,7 @@ Para maximizar nosso aprendizado e garantir entregas de qualidade, adotamos prá
 
 * **Comunicação Aberta:** Incentive a troca contínua de ideias, dúvidas e feedbacks entre todos os membros.
 * **Revisão de Código (Pull Requests):** Encorajamos a revisão mútua de Pull Requests para melhorar a qualidade do código, compartilhar conhecimento e fortalecer a equipe.
-* **Gestão de Tarefas (GitHub Projects/Issues):** Utilizamos o [Link para o GitHub Project da Organização, se existir, ou mencione que cada repo pode ter o seu] GitHub Projects ou Issues nos repositórios para organizar e acompanhar o progresso das tarefas de cada projeto.
+* **Gestão de Tarefas (GitHub Projects/Issues):** Utilizamos o GitHub Projects ou Issues nos repositórios para organizar e acompanhar o progresso das tarefas de cada projeto.
 * **Versionamento com Git:** Seguimos um fluxo de trabalho com branches claras (main/master, develop, feature branches) para manter a organização e integridade do nosso código.
 
 ---
