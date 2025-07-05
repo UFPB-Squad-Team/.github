@@ -66,7 +66,7 @@ Para maximizar nosso aprendizado e garantir entregas de qualidade, adotamos prá
 ## Membros do Squad
 
 * Brenno Henrique - Engenharia de software
-*
+* Samuel Colaço - Engenharia de software
 
 ---
 
